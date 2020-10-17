@@ -20,8 +20,9 @@ goal_reached = False
 
 if __name__ == '__main__':
 	done = False
+	file = input('Enter file name : ')
 	
-	maze = MazeMaker('./maze2.txt')
+	maze = MazeMaker('./input/' + file)
 
 	grid = maze.grid
 	root = maze.start_pos
