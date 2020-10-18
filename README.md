@@ -24,5 +24,19 @@ Then use the following convention to create the maze:
 <code>O -> blocking point</code>
 <code>. -> free point</code>
 </pre>
+
+For example, the above maze should look like:
+<pre>
+<code>..........</code>
+<code>......O...</code>
+<code>..O.......</code>
+<code>.....O....</code>
+<code>..........</code>
+<code>O.........</code>
+<code>....XO....</code>
+<code>.Y.......O</code>
+<code>.O........</code>
+<code>...O......</code>
+</pre>
 </p>
 
