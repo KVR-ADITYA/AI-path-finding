@@ -16,5 +16,13 @@ Note that the window size is onl 255x255</p>
 
 <p>
 If you want to make a custom maze and use the algorithm to solve it then you can do it in the following steps.
+First create a file in the ./input path.(It should be a txt file)
+Then use the following convention to create the maze:
+<pre>
+<code>X -> start point</code>
+<code>Y -> end point</code>
+<code>O -> blocking point</code>
+<code>. -> free point</code>
+</pre>
 </p>
 
