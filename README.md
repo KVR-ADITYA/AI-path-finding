@@ -2,7 +2,7 @@
 
 ## Description : This project is the implementation of AI search algorithms to solve mages
 
-![image](./images/maze.PNG)
+![image](./images/path_finder.gif)
 
 ## How to run?
 <pre>
